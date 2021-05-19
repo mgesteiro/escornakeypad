@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name EB-B3F-4055)(type Legacy)(uri ${KIPRJMOD}/Components/EB-B3F-4055.lib)(options "")(descr ""))
+  (lib (name Escornabot)(type Legacy)(uri ${KIPRJMOD}/Components/Escornabot.lib)(options "")(descr ""))
+)

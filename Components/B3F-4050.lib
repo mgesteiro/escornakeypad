@@ -1,0 +1,27 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# B3F-4050
+#
+DEF B3F-4050 S 0 30 Y N 1 F N
+F0 "S" 650 300 50 H V L CNN
+F1 "B3F-4050" 650 200 50 H V L CNN
+F2 "B3F-4050" 650 100 50 H I L CNN
+F3 "" 650 0 50 H I L CNN
+F4 "Push Tactile Switch NO" 650 0 50 H I L CNN "Description"
+F5 "Omron Electronics" 650 -100 50 H I L CNN "Manufacturer_Name"
+F6 "B3F-4055" 650 -200 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+C -80 0 20 1 1 0 N
+C 80 0 20 1 1 0 N
+P 2 0 1 0 0 90 20 90 N
+P 3 0 1 0 0 50 0 90 -20 90 N
+P 2 1 1 0 100 50 -100 50 N
+X 1 1 -200 0 100 R 50 50 0 1 P
+X 2 2 -200 0 100 R 50 50 1 1 P N
+X 3 3 200 0 100 L 50 50 1 1 P
+X 4 4 200 0 100 L 50 50 1 1 P N
+ENDDRAW
+ENDDEF
+#
+#End Library

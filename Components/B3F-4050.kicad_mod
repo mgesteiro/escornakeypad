@@ -1,10 +1,9 @@
-(module EB-B3F-4055 (layer F.Cu) (tedit 5AF1C0E8)
-  (descr EB-B3F-4055)
-  (tags "Switch Escornabot")
+(module B3F-4050 (layer F.Cu) (tedit 60A6E1A7)
+  (descr B3F-4050)
   (fp_text reference S1 (at -0.488 -0.204) (layer F.SilkS)
     (effects (font (size 1.27 1.27) (thickness 0.254)))
   )
-  (fp_text value B3F-4055 (at 0 -0.127) (layer F.SilkS) hide
+  (fp_text value B3F-4050 (at 0 -0.127) (layer F.SilkS) hide
     (effects (font (size 1.27 1.27) (thickness 0.254)))
   )
   (fp_line (start -6 -6) (end 6 -6) (layer Dwgs.User) (width 0.2))
@@ -26,9 +25,9 @@
     (solder_mask_margin 0.0001) (zone_connect 0))
   (pad "" np_thru_hole circle (at 0 4.5 90) (size 1.85 1.85) (drill 1.85) (layers *.Cu *.Mask)
     (solder_mask_margin 0.0001) (zone_connect 0))
-  (model ${KIPRJMOD}/Components/EB-B3F-4055.stp
+  (model ${KIPRJMOD}/Components/B3F-4050.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz -90 0 0))
+    (rotate (xyz 0 0 0))
   )
 )

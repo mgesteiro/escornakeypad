@@ -16,6 +16,11 @@ If you just want to get your PCBs done, use the [gerber file](gerber.zip) with a
 
 **NOTE:** approximate board dimensions 48 x 46 mm, 2 layers, 1.6 mm thickness 
 
+## Fritzing
+There's available a [fritzing part](https://github.com/mgesteiro/fritzing-parts/tree/main/EscornaKeypad) for this design:
+
+![EscornaKeypad](images/fritzingescornakeypad.png)
+
 ## LICENSE
 This work describes Open Hardware and is licensed under the [CERN-OHL-S v2 license](LICENSE_CERNSV20). It is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE. Please see the [CERN-OHL-S v2](https://ohwr.org/cern_ohl_s_v2.txt) for applicable conditions.
 

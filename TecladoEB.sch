@@ -5,8 +5,8 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "Escornabot keypad"
-Date "2021-05-19"
-Rev "v1.3"
+Date "2022-02-23"
+Rev "v1.4"
 Comp "Escornabot OSHW project"
 Comment1 ""
 Comment2 "escornabot.org"

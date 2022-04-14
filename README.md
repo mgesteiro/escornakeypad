@@ -3,6 +3,8 @@ My own implementation of a keypad for the [Escornabot](https://escornabot.org) e
 
 ![Escornabot Keypad](images/escornakeypad.png)
 ![Escornabot Keypad 3D](images/3descornakeypad.png)
+![Escornabot Keypad sch](TecladoEB.svg)
+
 
 An opensource hardware project developed with and opensource EDA: [KiCAD EDA 5.1](https://www.kicad.org/)
 
